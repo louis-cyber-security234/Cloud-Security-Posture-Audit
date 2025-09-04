@@ -1,6 +1,6 @@
 # AWS Cloud Security Posture Audit (CSPM) — Demo
 
-A fast, CLI-first demo showing how to **detect, remediate, and prove** common AWS misconfigurations using native services (CloudTrail, AWS Config, Security Hub, GuardDuty, Amazon Inspector v2).
+A fast, CLI-first demo showing how to **detect, remediate, and prove** common AWS misconfigurations using native services (CloudTrail, AWS Config, Security Hub, GuardDuty).
 
 📕 Guide: [AWS CSPM Demo Guide (PDF)](https://github.com/louis-cyber-security234/Cloud-Security-Posture-Audit/blob/main/AWS_CSPM_Demo_Guide.pdf)
 
